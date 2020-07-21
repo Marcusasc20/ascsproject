@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    font-family:"pokemon";
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+    background-color: rgb(24,60,168);
+}
